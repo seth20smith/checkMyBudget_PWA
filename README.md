@@ -21,26 +21,5 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 
-const WebpackPwaManifest = require("webpack-pwa-manifest");
 
-{
-  "name": "Food Event",
-  "short_name": "Foodies",
-  "description": "An app that allows you to view upcoming food events."
-}
 
-"background_color": "#01579b",
-"theme_color": "#ffffff"
-
-"icons": [
-  {
-    "src": "/img/icons/icons-192.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  },
-  {
-    "src": "/img/icons/icons-512.png",
-    "type": "image/png",
-    "sizes": "512x512"
-  }
-]
