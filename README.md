@@ -1,7 +1,7 @@
 # checkMyBudget_PWA
 
 
-# Budget Tracker Starter Code
+# Budget Tracker
 
 AS AN avid traveler
 
